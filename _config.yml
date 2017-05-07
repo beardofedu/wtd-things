@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: GitHub Training Manual
-email: services@github.com
-description: The official manual for the GitHub Training team.
+title: Things to do in Portland - Write the Docs Edition
+email: beardofedu@github.com
+description: The official guide to exploring Portland as written by a group of Write the Docs attendees.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: githubtraining
-github_username:  github
-github_repo: training-manual
+twitter_username: beardofedu
+github_username:  beardofedu
+github_repo: wtd-things
 logo: /img/logo-copy.png
 
 defaults:
