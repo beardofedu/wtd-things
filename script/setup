@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# script/setup: produce manuals for all classes
+
+set -e
+
+cd "$(dirname "$0")/.."
+
+script/bootstrap
