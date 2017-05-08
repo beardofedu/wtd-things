@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/beardofedu/wtd-things.svg?style=svg)](https://circleci.com/gh/beardofedu/wtd-things)
+
 # How to Git - Things to do in Portland
 Welcome to one of the repositories we will be using in today's workshop. In this repository, we will be creating content as collaborators in this repository.
 
