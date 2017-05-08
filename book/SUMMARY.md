@@ -1,4 +1,5 @@
 # Summary
+  * [Introduction](README.md)
 
 ## Places to Visit
   * [Oregon Zoo](portland-zoo.md)
