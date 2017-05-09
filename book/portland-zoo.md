@@ -10,4 +10,4 @@
 ## What's Happening?
 Thinking about visiting the zoo? See the list of events scheduled for [today](http://www.oregonzoo.org/visit/today-zoo)!
 
-![img](https://logos.chinookbook.com/OrganizationImages/a0P8000000CSmuWEAT.png)
+![img](/images/oregon-zoo.png)
