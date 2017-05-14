@@ -2,6 +2,7 @@
 
 # How to Git - Things to do in Portland
 Welcome to one of the repositories we will be using in today's workshop. 
+Our GitBook available as a PDF here: https://www.gitbook.com/book/beardofedu/wtd-things/details
 
 ## Resources
 
