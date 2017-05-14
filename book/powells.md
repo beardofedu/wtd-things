@@ -7,7 +7,7 @@
 - Everyday, 9a - 11p
 
 ## What's Happening?
-- [Events](http://www.powells.com/calendar)
+- [Events calendar](http://www.powells.com/calendar)
 
 ## eringrace's Suggestions
 - Grab a map at the entrance; Powell's is huge!
