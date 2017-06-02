@@ -1,4 +1,10 @@
 # Summary
+  * [Introduction](README.md)
 
-## Welcome
-  * [Things To Do](00_Things-to-do.md)
+## Places to Visit
+  * [Oregon Zoo](portland-zoo.md)
+  * [Powell's City of Books](powells.md)
+  * [Oblation Public Typing Station](oblation.md)
+
+## Places to Eat or Drink 
+  * [Rogue Farms](rogue-farms.md)
