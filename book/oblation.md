@@ -20,3 +20,4 @@
 
 - Read what other people have written -- there's always something interesting.
 - Check out the store for cool stationery.
+- Enjoy the tactile feel of the keys.
