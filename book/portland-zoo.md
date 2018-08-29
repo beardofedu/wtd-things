@@ -11,3 +11,5 @@
 Thinking about visiting the zoo? See the list of events scheduled for [today](http://www.oregonzoo.org/visit/today-zoo)!
 
 ![img](/images/oregon-zoo.png)
+
+Updating the file for checking conflicts
