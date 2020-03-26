@@ -12,3 +12,5 @@
 ## eringrace's Suggestions
 - Grab a map at the entrance; Powell's is huge!
 - Hard-to-find and used books are the store's speciality. Look for something you've been having a hard time finding.
+
+Updated by rdinn001 for testing.
